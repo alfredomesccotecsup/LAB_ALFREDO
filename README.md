@@ -1,10 +1,6 @@
 <img src=https://github.com/MindorksOpenSource/Jetpack-Compose-WhatsApp-Clone/blob/master/art/whatsapp-clone.jpg>
 
-# Jetpack-Compose-WhatsApp-Clone - Learn Jetpack Compose by building WhatsApp Clone
 
-[![MindOrks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 
 ## About this project (Jetpack Compose WhatsApp Clone):
 * If you want to get started with Jetpack Compose, then this project is for you.
